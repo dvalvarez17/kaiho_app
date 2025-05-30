@@ -1,0 +1,22 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: "assets/images/splash/kaiho_verde_full.png"
+  android_gravity: center
+  ios_content_mode: scaleAspectFit
+
+  android_12:
+    image: "assets/images/splash/iso-tipo-verde.png"
+    image_dark: "assets/images/iso-tipo-verde.png"
+    icon_background_color: "#FFFFFF"
+    icon_background_color_dark: "#303030"
+    color: "#233F2E"
+    color_dark: "#303030"
+    branding: "assets/images/splash/kaiho_verde_wtht_borders_branding_199x66.png"
+    branding_dark: "assets/images/splash/kaiho_bg_black_let_white.png"
+
+  color_dark: "#303030"
+  image_dark: "assets/images/splash/kaiho_bg_black_let_white.png"
+
+  fullscreen: true
+  android: true
+  ios: true
