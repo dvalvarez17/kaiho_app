@@ -1,9 +1,5 @@
 # 🔐 Configuración de API WooCommerce
 
-## ⚠️ IMPORTANTE: Seguridad de Credenciales
-
-Las credenciales compartidas anteriormente fueron comprometidas al ser expuestas públicamente. **DEBES regenerarlas inmediatamente** antes de continuar.
-
 ---
 
 ## 📋 Pasos de Configuración
